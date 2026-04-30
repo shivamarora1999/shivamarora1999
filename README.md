@@ -203,14 +203,6 @@ Good data work should:
 
 ---
 
-## Connect With Me
-
-- **LinkedIn:** [Add your LinkedIn URL here]
-- **GitHub:** [Add your GitHub URL here]
-- **Email:** [Add your email here]
-
----
-
 ## Profile Summary
 
 Data, finance, and analytics professional building practical systems across BI, forecasting, automation, and machine learning.
